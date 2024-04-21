@@ -1,14 +1,14 @@
 import NavBar from './components/NavBar';
 import './App.css'
-
+import ItemListContainer from './components/Itemlistcontainer/ItemlistContainer';
 function App() {
   
 
   return (
    <div>
     <NavBar/>
-    
-    <h1>Hola mundo</h1>
+    <ItemListContainer saludo ="Bienvenido a Cosito Ecommerce"/>
+   
    </div>
   )
 }
