@@ -1,0 +1,16 @@
+
+.carrito{
+    display: flex;
+    align-items: center;
+}
+
+.cart{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+
+.valor{
+    margin-right: 20px;
+}
+
